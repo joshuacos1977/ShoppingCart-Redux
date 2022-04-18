@@ -4,6 +4,8 @@ import styles from "./Products.module.css";
 import Product from "./Product/Product";
 
 const Products = () => {
+  
+  
   return (
     <div className={styles.products}>
       <Product />
